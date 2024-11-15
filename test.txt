@@ -1,0 +1,5 @@
+Tirana;19.2
+Ouahigouya;18.5
+Bulawayo;26.8
+Bob;1.1
+Bob;-1.1
